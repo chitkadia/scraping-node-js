@@ -1,0 +1,20 @@
+{
+  "name": "zapscrapper",
+  "version": "1.0.0",
+  "description": "This is a demo od scrapping in nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zaptech",
+    "scrapper"
+  ],
+  "author": "Tarak Kadiya",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
